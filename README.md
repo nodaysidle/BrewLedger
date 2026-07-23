@@ -1,3 +1,5 @@
+<img src=".github/social-preview.png" alt="BrewLedger — NODAYSIDLE" width="100%">
+
 # BrewLedger
 
 > A native macOS app for home coffee enthusiasts to log, track, and review their brews — local-first, no cloud, no accounts.
