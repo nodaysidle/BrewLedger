@@ -2,7 +2,7 @@
 
 # BrewLedger
 
-> A native macOS app for home coffee enthusiasts to log, track, and review their brews — local-first, no cloud, no accounts.
+> Build-from-source macOS app for home coffee enthusiasts to log, track, and review their brews — local-first, no cloud, no accounts.
 
 ![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-silver?style=flat-square)
 ![Swift](https://img.shields.io/badge/Swift-6.0-FA7343?style=flat-square)
@@ -38,7 +38,7 @@ No cloud sync, no accounts, no telemetry.
 
 ## Installation
 
-Build from source:
+No pre-built app is published: the latest release ([v2026.7.23](https://github.com/nodaysidle/BrewLedger/releases/tag/v2026.7.23)) has no downloadable assets. Build from source with Xcode (deployment target macOS 14.0):
 
 ```bash
 xcodebuild -project BrewLedger.xcodeproj -scheme BrewLedger -destination 'platform=macOS' build
